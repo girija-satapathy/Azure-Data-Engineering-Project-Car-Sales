@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "carsalesadfbubun"
+		},
+		"ls_adlsgen2_accountKey": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_sqldb_password": {
+			"value": ""
+		},
+		"ls_adlsgen2_properties_typeProperties_url": {
+			"value": "https://carsalesproject.dfs.core.windows.net/"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://carsalesproject.dfs.core.windows.net/"
+		},
+		"ls_sqldb_properties_typeProperties_server": {
+			"value": "carsalesserverbubun.database.windows.net"
+		},
+		"ls_sqldb_properties_typeProperties_database": {
+			"value": "carsalesdb"
+		},
+		"ls_sqldb_properties_typeProperties_userName": {
+			"value": "adminbubun"
+		},
+		"source_ls_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		}
+	}
+}
