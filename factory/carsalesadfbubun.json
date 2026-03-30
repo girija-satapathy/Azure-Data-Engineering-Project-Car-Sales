@@ -1,0 +1,9 @@
+{
+	"name": "carsalesadfbubun",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7e46651-170d-4b9f-8604-53f025410f29",
+		"tenantId": "f16ee3ad-3012-4615-b79b-5c4d39f07724"
+	}
+}
