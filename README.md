@@ -6,7 +6,7 @@
 
 # 🏗️ Architecture
 
-![](Car_Sales/carSalesProject.png)
+![](Architecture_Diagram/carSalesProject.png)
 
 # 🧰 Tech Stack
 - Azure Data Factory (ADF) – Data ingestion & orchestration
@@ -42,7 +42,7 @@
 ### 🔹 Workflow Orchestration
 - Built end-to-end pipeline using Databricks Workflows
 - Automated execution of notebooks
-    ![](Car_Sales/Dataflow.png)
+    ![](Architecture_Diagram/Dataflow.png)
 
 #  🔄 Pipeline Flow
 1. ADF extracts data from GitHub API
